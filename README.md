@@ -1,11 +1,12 @@
-- 👋 What's Up, I’m Michael Azar Black Jr.
+# 👋 My name is Michael Azar Black Jr.
 
 🔴⚫️⚪️ _ _ I'm a Young and Passionate Programmer from Atlanta, Georgia _ _ ⚪️⚫️🔴
+- I’m committed to expanding my skills, taking on meaningful challenges, and contributing to environments where innovation and creativity matter.
 
-- I'm A Current:
-    - 💻 Computer Science Major with skills including: Data Analysis, Computer Programming, C++, Java, Hardware and Software installment, and Web Development
-    - 🎵 Music Technology Minor with skills including: Recording Arts, Sound Design, Sound Engineering, Audio Development, DAW functionality, and Music Theory.
-- 🔎 My goal is to utilize my skills for the betterment of a community, and gain further experience within my field of interest while building/contributing to a professional environment.
+# I'm A Current:
+    - 💻 Computer Science Major with experience in Data Analysis, C++, Java, Computer Programming, Hardware/Software Installation, and Web Development, with a strong focus on problem-solving, hands-on learning, and efficiency.
+    - 🎵 Music Producer (Additional Passion) skilled in Recording Arts, Sound Design, Sound Engineering, Audio Development, DAW functionality, and Music Theory, giving me a unique technical–creative blend that enhances my approach to both programming and audio-based projects.
+- 🔎 My Goal: To apply my growing skill set to meaningful projects, contribute to a forward-thinking organization, and continue developing into a well-rounded professional who brings value, curiosity, and teamwork to every community and environment I'm part of.
 
 
 🎓 Utility + Languages:
@@ -15,26 +16,11 @@
 
 
 ⚡ Other Skills:
-- BiLingual (Enlgish and Japanese)📚
-- Music Production: @frz_king
-- I Play Trombone in My College Marching Band + Georgia Mass Band
+- 🌍 Tri-lingual Communicator: fluent in English, with intermediate fluency in Japanese and Spanish, allowing me to collaborate across cultures and connect with diverse communities.- 
+- 🎼 Lead Trombonist in My College Marching Band (Southern University Human Jukebox) + Georgia Mass Band
 
 
 Socials:
 - Instagram: @frz_king
 - LinkedIn: Michael Black
   
-<!--
-**Akamerules1/Akamerules1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
